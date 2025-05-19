@@ -1,0 +1,8 @@
+This project is to create a small site with a homepage that links to a few different pages with different recipes. 
+Throughout the project I demonstrated that I know how to: 
+    - create html boilerplates
+    - create different size headings
+    - add images to a page
+    - create paragraphs
+    - use both absolute and relative links
+    - make both unordered and ordered lists
